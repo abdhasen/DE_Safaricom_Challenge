@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class MajicNumber {
     static int number, digit, sum;
 
     public static void main(String[] args) {
