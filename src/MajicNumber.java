@@ -6,19 +6,14 @@ public class Main {
     public static void main(String[] args) {
         //
 
-        String str = "entoto";
-        char[] strChar = str.toCharArray();
-        for(int i = strChar.length - 1; i >= 0; i--)
-        {
-            System.out.print(strChar[i]);
-        }
         // accept number from user
         Scanner sc = new Scanner(System.in);
         System.out.println("enter the number: ");
         number = sc.nextInt();
-        // call the majicNumber function with number
+        // call the majicNumber function with number and assign the return value to step1
         int step1 = MajicNumber(number);
         System.out.println(step1);
+        // use step1 result as an input for the step2 and call the method again
         int step2 = MajicNumber(step1);
         System.out.println(step2);
         if(step2 == 1) {
