@@ -1,0 +1,5 @@
+difference between equals and equality (===) operator
+
+equals operator checks equality of the values
+
+where as equality(===) operator checks equality of the values and type.

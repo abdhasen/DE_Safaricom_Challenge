@@ -1,0 +1,13 @@
+Difference between Interface and abstract class
+
+
+Abstract
+Can have abstract and non- abstract methods
+do not support Multiple inhertance
+can have final,non-final, static and non static
+
+
+Interface
+can have only abstract method
+supports multiple inheritance
+can have only static and final

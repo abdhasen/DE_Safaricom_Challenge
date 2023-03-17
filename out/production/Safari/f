@@ -1,0 +1,13 @@
+method overloading and overriding
+
+Method Overriding
+implements runtime polymorphism
+method coll determined at run time
+occurs between super and sub class
+Have the same signature and method arguments
+
+Method Overloading
+implements compile time polymorphism
+Method call is determined at compile time
+occurs between methods in the same class
+Have the same signature and different arguments
