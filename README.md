@@ -1,4 +1,12 @@
 # DE_Safaricom_Challenge
+
+to run the code 
+
+//  Create a java class on your ide and paste the code. in some cases yo need to create main function 
+
+
+
+
 d. In array we have to shift every block that follows it
 but in linked list it is just remove the block and
 store the address of the next block it was storing in the previous
